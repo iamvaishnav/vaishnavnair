@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vaishnavnair365@gmail.com**
 
-- ⚡ Fun fact **I love creating bugs and killing them**
+- ⚡ Fun fact **I love crushing bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
