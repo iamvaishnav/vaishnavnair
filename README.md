@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<p align="left"> <a href="https://twitter.com/TheVaishnavNair" target="blank"><img src="https://img.shields.io/twitter/follow/iamvaishnavnair?logo=twitter&style=for-the-badge" alt="iamvaishnavnair" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TheVaishnavNair" target="blank"><img src="https://img.shields.io/twitter/follow/TheVaishnavNair?logo=twitter&style=for-the-badge" alt="TheVaishnavNair" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
